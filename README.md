@@ -149,4 +149,5 @@ An interactive Power BI dashboard was developed to provide:
 
 ## Author
 Esraa Bahaa
+
 Developed as an end-to-end data analytics project covering data preparation, SQL analysis, business intelligence, dashboard development, and business recommendation generation.
