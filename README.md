@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes customer shopping behavior using transactional retail data to uncover spending patterns, customer segments, product preferences, and subscription trends. The analysis combines Python, PostgreSQL, and Power BI to transform raw customer data into actionable business insights and recommendations.
+This project analyzes customer shopping behavior using transactional retail data to uncover spending patterns, customer segments, product preferences, and subscription trends. The analysis combines Python, SQL, and Power BI to transform raw customer data into actionable business insights and recommendations.
 
 ---
 
@@ -42,7 +42,6 @@ Features Included:
 
 - Python
 - Pandas
-- PostgreSQL
 - SQL
 - Power BI
 
@@ -60,7 +59,7 @@ Key preparation steps included:
 - Feature engineering for age groups
 - Creation of purchase frequency metrics
 - Data consistency checks and redundancy removal
-- Loading cleaned data into PostgreSQL for analysis
+- Loading cleaned data into SQL for analysis
 
 ---
 
